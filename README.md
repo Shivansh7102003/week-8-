@@ -82,17 +82,6 @@
 
 ---
 
-## 🎬 Demo
-
-<div align="center">
-  
-### 🖥️ Interface Preview
-
-| Setup Tab | Upload Files | Chat Interface |
-|-----------|--------------|----------------|
-| ![Setup](https://via.placeholder.com/250x150?text=API+Setup) | ![Upload](https://via.placeholder.com/250x150?text=File+Upload) | ![Chat](https://via.placeholder.com/250x150?text=Chat+View) |
-
-</div>
 
 ### 🎥 Live Demo
 ```python
